@@ -1,0 +1,7 @@
+p img {
+    max-height: 56px !important;
+}
+
+.app-nav.no-badge {
+    margin-right: 60px !important;
+}
